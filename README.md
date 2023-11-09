@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Home Lab Projects:</h2>
 
-- <b>Cybersecurity Efficiency Optimisation (AlgoExpert)</b>
+- <b>Cybersecurity Efficiency Optimisation </b>
   - Exploring NIST and Essential 8, breaking down key concepts 
 
 
