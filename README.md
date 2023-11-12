@@ -18,5 +18,3 @@ b>Cisco Packet Tracer LAN Simulation </b>
 
 [linkedin]: https://www.linkedin.com/in/bryan-yeung-445710262/
 
-
--->
