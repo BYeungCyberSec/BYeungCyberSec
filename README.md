@@ -1,5 +1,7 @@
 <h1>Hi, I'm Bryan! </h1>
 
+Here is my portfolio of home lab projects I have currently completed and documented
+
 <h2>Cybersecurity Home Lab Projects:</h2>
 
 - <b>Cybersecurity Efficiency Optimisation </b>
