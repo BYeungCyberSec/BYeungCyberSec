@@ -3,7 +3,7 @@
 <h2>Cybersecurity Home Lab Projects:</h2>
 
 - <b>Cybersecurity Efficiency Optimisation </b>
-  - Exploring NIST and Essential 8, breaking down key concepts 
+  - [Exploring NIST and Essential 8, breaking down key concepts](https://github.com/BYeungCyberSec/CapstoneProject/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
