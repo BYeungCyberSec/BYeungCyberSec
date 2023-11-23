@@ -9,6 +9,10 @@ Here is my portfolio of home lab projects I have currently completed and documen
 
 - <b>Cisco Packet Tracer LAN Simulation </b>
   - [Routing, Switching, Assigning VLANs, OSPF, NAT/PAT](https://github.com/BYeungCyberSec/CiscoPTProject)
+ 
+- <b> Windows 10 STIG setup and ISO27001 audit </b>
+ - [ASD Essential 8 and ISO27001 audit](https://github.com/BYeungCyberSec/MockAudit)
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="BryanYeung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
